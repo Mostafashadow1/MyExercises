@@ -1,0 +1,12 @@
+.navbar_container {
+  background-color: var(--mainColor);
+  color: var(--whiteColor);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 10px 0;
+  transition: all 200ms linear;
+  border-bottom: 1px solid var(--lineColor);
+  z-index: 999;
+}
+

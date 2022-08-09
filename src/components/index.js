@@ -1,0 +1,9 @@
+export { default as Navbar } from "./navbar/Navbar";
+export { default as Banner } from "./banner/Banner";
+export { default as TitleSection } from "./sections/TitleSection";
+export { default as ImageGallery } from "./sections/ImageGallery";
+export { default as SearchInput } from "./sections/SearchInput";
+export { default as Spinner } from "./Spinner";
+export { default as Exercises } from "./sections/Exercises";
+export { default as HeaderDetails } from "./exerciseDetails/HeaderDetails";
+export { default as SimilarExercises } from "./exerciseDetails/SimilarExercises";
