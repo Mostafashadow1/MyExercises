@@ -12,7 +12,7 @@ It is also in the last section. All the exercises you need with the ability to s
 </p>
 
 ## Demo
-https://shadowcryptocuurncies.netlify.app/
+https://myexercises.netlify.app/
 
 ## Install dependencies
 ```
