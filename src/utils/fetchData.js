@@ -1,5 +1,6 @@
 import axios from "axios";
-axios.defaults.baseURL = process.env.REACT_APP_BASE_URL;
+
+axios.defaults.baseURL = 'https://exercisedb.p.rapidapi.com';
 const config = {
   headers: {
     "X-RapidAPI-Key": process.env.REACT_APP_RAPID_KEY,
