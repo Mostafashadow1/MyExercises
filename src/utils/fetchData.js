@@ -1,10 +1,9 @@
 import axios from "axios";
-
-axios.defaults.baseURL = 'https://exercisedb.p.rapidapi.com';
+axios.defaults.baseURL = "https://exercisedb.p.rapidapi.com";
 const config = {
   headers: {
     "X-RapidAPI-Key": process.env.REACT_APP_RAPID_KEY,
-    "X-RapidAPI-Host": process.env.REACT_APP_RAPID_HOST,
+    "X-RapidAPI-Host": "exercisedb.p.rapidapi.com",
   },
 };
 
