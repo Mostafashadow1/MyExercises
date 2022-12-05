@@ -11,8 +11,7 @@ And there are other pictures in the second section to push you to success and ex
 It is also in the last section. All the exercises you need with the ability to search for your favorite exercises and when you click on it, it takes you to another page for me. This exercise is only for more information.
 </p>
 
-## Demo
-https://myexercises.netlify.app/
+## [Demo](https://myexercises.netlify.app/)
 
 ## Install dependencies
 ```
